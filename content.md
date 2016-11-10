@@ -198,11 +198,11 @@ Paint in VR in the browser.
 
 <!-- NOTES -->
 - A-Frame is very powerful
-- 90+fps room-scale TiltBrush experience in a few weeks with just A-Frame
+- 90+fps room-scale Tilt Brush-inspired experience built in a few weeks using only A-Frame
 
 ------
 
-# aframe.io
+# [A-Frame](https://aframe.io/)
 
 <div class="captioned-image-row">
   <div>
