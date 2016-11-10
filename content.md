@@ -207,11 +207,11 @@ Paint in VR in the browser.
 <div class="captioned-image-row">
   <div>
     <img data-src="media/img/github.png">
-    <i>75 contributors 3500 Stargazers</i>
+    <i>85 contributors <br> 3880+ Stargazers</i>
   </div>
   <div>
     <img data-src="media/img/slack.png">
-    <i>1750 members on Slack</i>
+    <i>1950+ members on Slack chat</i>
   </div>
   <div>
     <img data-src="media/img/scene-collage-circle.png">
